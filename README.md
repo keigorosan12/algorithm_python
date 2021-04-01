@@ -1,2 +1,4 @@
 # algorithm_python
 pythonでのアルゴリズム練習用
+
+各フォルダにpythonによって作成したアルゴリズムのPRを記載。
